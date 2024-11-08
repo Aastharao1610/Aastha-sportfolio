@@ -105,10 +105,11 @@ import Projectcompoents from "./Projectcompoents";
 function Work() {
   return (
     <div className="bg-gray-200 text-black px-4 sm:px-6 md:px-12 lg:px-24 py-12">
-      <div className="text-4xl xl:text-left mb-7 tracking-wider capitalize text-center">
+      <div className="xl:text-4xl text-2xl xl:text-left mb-7 tracking-wider capitalize text-center">
         Some of My Work
       </div>
-      <hr className="w-1 line sm:w-2/12 h-[3px] xl:ml-4 sm:ml-5 mx-auto bg-black mb-8 sm:mb-10" />
+      {/* <hr className="w-[400px] line sm:w-2/12 h-[3px] xl:ml-4 sm:ml-5 mx-auto bg-black mb-8 sm:mb-10" /> */}
+      <hr className="my-10 bg-black h-[3px] xl:w-72 sm:w-12 w-56 mx-auto xl:mx-0" />
       <div className="grid z-0 relative grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 sm:gap-10 lg:gap-12">
         <Projectcompoents
           Image={"/Project/codemastermind.png"}

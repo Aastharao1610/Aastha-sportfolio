@@ -51,7 +51,7 @@ function Intro({ onLearnMoreClick }) {
 
                   {/* Logo image is initially visible, but disappears when hovered */}
                   <img
-                    className="xl:h-16 w-20 xl:w-24 object-cover   -mt-14 opacity-100 group-hover:opacity-0 transition-opacity duration-1000"
+                    className="xl:h-16 h-7 w-12 xl:w-24 object-cover xl:ml-0 ml-2  xl:-mt-14 opacity-100 group-hover:opacity-0 transition-opacity duration-1000"
                     src="/Logo/ARWhite.svg"
                     alt="Aastha Rao Logo"
                   />

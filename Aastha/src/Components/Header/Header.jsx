@@ -308,7 +308,7 @@ const Header = () => {
         <div className="flex justify-between">
           <div className="m-0 p-0 -mt-10">
             <img
-              className="xl:h-20 sm:h-24 md:h-28 lg:h-24 xl:mb-16  h-28 w-20 mt-0"
+              className="xl:h-20 sm:h-24 md:h-28 lg:h-24 xl:mb-16 md:mt-0 xl:ml-0 -ml-4  h-12 w-20 mt-8 xl:mt-0"
               src="/Logo/ARWhite.svg"
               alt="Logo"
             />

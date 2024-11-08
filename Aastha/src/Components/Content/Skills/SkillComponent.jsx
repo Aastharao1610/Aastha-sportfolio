@@ -1,10 +1,11 @@
 import React from "react";
 
-function SkillComponent({ Skill, background }) {
+function SkillComponent({ Skill, background, Icon }) {
   return (
     <div
-      className={`${background} hover:scale-105 transition-transform duration-300 ease-in-out rounded-full text-center justify-center h-44 w-44 flex items-center`}
+      className={`${background} hover:scale-105 transition-transform duration-300 ease-in-out rounded-full text-center justify-center h-44 w-44 flex flex-col items-center`}
     >
+      <Icon className="text-4xl mb-2 text-white" />
       <div className="text-lg font-semibold uppercase tracking-wider">
         {Skill}
       </div>
