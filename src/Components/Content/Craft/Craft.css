@@ -1,0 +1,11 @@
+@media (max-width: 820px) {
+  .vertical-line {
+    display: none;
+  }
+  .horizontal-line {
+    display: none;
+  }
+  .my-craft {
+    margin-left: 0rem;
+  }
+}
