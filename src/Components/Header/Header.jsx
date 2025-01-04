@@ -349,7 +349,7 @@ const Header = () => {
               <div className="  cursor-pointer">
                 <button className="bg-gray-300 px-4 rounded-lg  ">
                   <a
-                    href="/Resume/Resume.pdf"
+                    href="/Resume/Aastharesume.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white  hover:text-gray-300"
@@ -391,7 +391,7 @@ const Header = () => {
             <div className="cursor-pointer">
               <button className="bg-gray-300 px-4 -ml-3 rounded-lg">
                 <a
-                  href="/Resume/Resume.pdf"
+                  href="/Resume/Aastharesume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white hover:text-gray-300"

@@ -28,7 +28,7 @@ function Experiance() {
 
       <div className="bg-black text-white w-full py-12 text-center capitalize text-2xl">
         <a
-          href="/Resume/Resume.pdf"
+          href="/Resume/Aastharesume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white  hover:text-gray-300"

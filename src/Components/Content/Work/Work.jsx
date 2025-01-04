@@ -116,14 +116,14 @@ function Work() {
           Title={"Codematermind"}
           projectType={"codemastermind"}
           Linkofcode={"https://github.com/Aastharao1610/Codemastermind"}
-          LinkofLive={"https://codemastermindtut.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Codemastermind"}
         />
 
         <Projectcompoents
           Image={"/Project/todo.png"}
           projectType={"todo"}
           Linkofcode={"https://github.com/Aastharao1610/ToDo"}
-          LinkofLive={"https://aasthatodo.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/ToDo"}
         />
 
         <Projectcompoents
@@ -144,14 +144,14 @@ function Work() {
           Image={"/Project/Mirands.png"}
           projectType={"Miranda"}
           Linkofcode={"https://github.com/Aastharao1610/Miranda"}
-          LinkofLive={"https://mirrandaa.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Miranda/"}
         />
 
         <Projectcompoents
           Image={"/Project/megma.png"}
           projectType={"MegmaWeb"}
           Linkofcode={"https://github.com/Aastharao1610/MegmaWeb"}
-          LinkofLive={"https://megmaweb.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/MegmaWeb/"}
         />
 
         <Projectcompoents
@@ -179,14 +179,14 @@ function Work() {
           Image={"/Project/tictactoe.png"}
           projectType={"tictactoe"}
           Linkofcode={"https://github.com/Aastharao1610/TicTaetoe"}
-          LinkofLive={"https://aasthatictactoegameapp.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/TicTaetoe/"}
         />
 
         <Projectcompoents
           Image={"/Project/bubblegame.png"}
           projectType={"Bubble"}
           Linkofcode={"https://github.com/Aastharao1610/Bubblegame"}
-          LinkofLive={"https://bubblegameappar.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Bubblegame/"}
         />
 
         <Projectcompoents
