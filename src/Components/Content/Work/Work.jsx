@@ -130,14 +130,14 @@ function Work() {
           Image={"/Project/Reactroute.png"}
           projectType={"routingApp"}
           Linkofcode={"https://github.com/Aastharao1610/Codemastermind"}
-          LinkofLive={""}
+          LinkofLive={"https://aastharao1610.github.io/Codemastermind/"}
         />
 
         <Projectcompoents
           Image={"/Project/passwordgen.png"}
           projectType={"passwordgenerator"}
           Linkofcode={"https://github.com/Aastharao1610/passwordgenrator"}
-          LinkofLive={"https://passwordgenrat.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/passwordgenrator/"}
         />
 
         <Projectcompoents
@@ -158,21 +158,21 @@ function Work() {
           Image={"/Project/cyber.png"}
           projectType={"Cyberfiction"}
           Linkofcode={"https://github.com/Aastharao1610/CyberFiction"}
-          LinkofLive={"https://cyberfictionapp.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/CyberFiction/"}
         />
 
-        <Projectcompoents
+        {/* <Projectcompoents
           Image={"/Project/Duostudio.png"}
           projectType={"Duostudio"}
           Linkofcode={"https://github.com/Aastharao1610/Duo_Studio"}
           LinkofLive={"https://duostudioapp.netlify.app/"}
-        />
+        /> */}
 
         <Projectcompoents
           Image={"/Project/flipkart.png"}
           projectType={"flipkart"}
           Linkofcode={"https://github.com/Aastharao1610/FlipkartClone"}
-          LinkofLive={"https://aasthasuiclone.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/FlipkartClone/"}
         />
 
         <Projectcompoents
@@ -193,7 +193,7 @@ function Work() {
           Image={"/Project/clock.png"}
           projectType={"clock"}
           Linkofcode={"https://github.com/Aastharao1610/clock"}
-          LinkofLive={"https://wokingclock.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/clock/"}
         />
       </div>
       {/* <div className='capitalize mt-12 text-center text-2xl'>Always Building, Always Growing—More Projects Ahead!</div> */}
