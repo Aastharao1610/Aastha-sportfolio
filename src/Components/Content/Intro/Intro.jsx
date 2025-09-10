@@ -28,7 +28,7 @@ function Intro({ onLearnMoreClick }) {
               AASTHA RAO
             </h1>
             <h3 className="text-white text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold">
-              Front End Web Developer
+              FullStack Web Developer
             </h3>
           </div>
 

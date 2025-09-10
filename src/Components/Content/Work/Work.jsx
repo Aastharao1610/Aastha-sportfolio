@@ -126,12 +126,12 @@ function Work() {
           LinkofLive={"https://aastharao1610.github.io/ToDo"}
         />
 
-        <Projectcompoents
+        {/* <Projectcompoents
           Image={"/Project/Reactroute.png"}
           projectType={"routingApp"}
           Linkofcode={"https://github.com/Aastharao1610/Codemastermind"}
-          LinkofLive={"https://aastharao1610.github.io/Codemastermind/"}
-        />
+          LinkofLive={""}
+        /> */}
 
         <Projectcompoents
           Image={"/Project/passwordgen.png"}

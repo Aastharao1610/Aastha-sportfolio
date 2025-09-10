@@ -301,9 +301,8 @@ const Header = () => {
   return (
     <>
       <div
-        className={`xl:h-8 h-16 nav top-0 left-0 w-full sticky -mb-16 -pb-6 text-white text-lg p-4 sm:p-6 md:p-8 ${
-          isBackgroundBlack ? "bg-black" : "bg-transparent"
-        } z-10 transition-colors duration-300`}
+        className={`xl:h-8 h-16 nav top-0 left-0 w-full sticky -mb-16 -pb-6 text-white text-lg p-4 sm:p-6 md:p-8 ${isBackgroundBlack ? "bg-black" : "bg-transparent"
+          } z-10 transition-colors duration-300`}
       >
         <div className="flex justify-between">
           <div className="m-0 p-0 -mt-10">
@@ -349,7 +348,7 @@ const Header = () => {
               <div className="  cursor-pointer">
                 <button className="bg-gray-300 px-4 rounded-lg  ">
                   <a
-                    href="/Resume/Aastharesume.pdf"
+                    href="/Resume/AasthaRao.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white  hover:text-gray-300"
@@ -391,8 +390,8 @@ const Header = () => {
             <div className="cursor-pointer">
               <button className="bg-gray-300 px-4 -ml-3 rounded-lg">
                 <a
-                  href="/Resume/Aastharesume.pdf"
-                  target="_blank"
+                  href="/Resume/AasthaRao.pdf"
+
                   rel="noopener noreferrer"
                   className="text-white hover:text-gray-300"
                 >
