@@ -77,7 +77,7 @@ function Craft() {
           {/* Vertical Line */}
           <div className="vertical-line  md:block absolute top-0 left-1/2 h-full w-[2px] bg-black"></div>
 
-          {/* Frontend Web Development */}
+          {/* Frontend Web Development
           <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
             <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
               Frontend Web Development
@@ -87,16 +87,57 @@ function Craft() {
               focus is on writing clean, simple code to create websites that are
               easy to use and visually appealing.
             </p>
-          </div>
+          </div> */}
 
           {/* Responsive Design */}
-          <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
+          {/* <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
             <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
               Responsive Design
             </h3>
             <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
               I make sure that the websites I create look great and work well on
               any device, whether it's a phone, tablet, or computer.
+            </p>
+          </div> */}
+
+          {/* Problem Solving */}
+          {/* <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
+            <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
+              Problem Solving
+            </h3>
+            <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
+              I love figuring out solutions to coding challenges and improving
+              the user experience by ensuring everything runs smoothly.
+            </p>
+          </div> */}
+
+          {/* Learning & Growing */}
+          {/* <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
+            <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
+              Learning & Growing
+            </h3>
+            <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
+              As a developer, I’m constantly learning new techniques and
+              applying them to improve my work and take on bigger challenges.
+            </p>
+          </div> */}
+          {/* Frontend Web Development */}
+          <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
+            <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
+              Full-Stack Development
+            </h3>
+            <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
+              I love creating applications that connect everything sleek interfaces on the front and solid systems at the back all working together smoothly.
+            </p>
+          </div>
+
+          {/* Responsive Design */}
+          <div className="group p-4 sm:p-8 md:p-12 rounded-lg transition duration-300 hover:bg-gray-100 flex flex-col items-center text-center md:text-left">
+            <h3 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-4">
+              Responsive & Scalable Design
+            </h3>
+            <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
+              For me, design is more than just looks; it’s about making sure every project feels natural to use and adapts beautifully to any screen.
             </p>
           </div>
 
@@ -106,8 +147,7 @@ function Craft() {
               Problem Solving
             </h3>
             <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
-              I love figuring out solutions to coding challenges and improving
-              the user experience by ensuring everything runs smoothly.
+              Coding challenges excite me I enjoy digging into issues, simplifying the complex, and finding solutions that make products more reliable.
             </p>
           </div>
 
@@ -117,10 +157,10 @@ function Craft() {
               Learning & Growing
             </h3>
             <p className="text-sm sm:text-base md:text-lg text-gray-900 font-light group-hover:text-gray-500 transition duration-300">
-              As a developer, I’m constantly learning new techniques and
-              applying them to improve my work and take on bigger challenges.
+              I’m curious by nature, always picking up new tools and ideas, and bringing that freshness into the work I build.
             </p>
           </div>
+
         </div>
       </div>
     </div>

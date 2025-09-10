@@ -116,84 +116,84 @@ function Work() {
           Title={"Codematermind"}
           projectType={"codemastermind"}
           Linkofcode={"https://github.com/Aastharao1610/Codemastermind"}
-          LinkofLive={"https://codemastermindtut.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Codemastermind"}
         />
 
         <Projectcompoents
           Image={"/Project/todo.png"}
           projectType={"todo"}
           Linkofcode={"https://github.com/Aastharao1610/ToDo"}
-          LinkofLive={"https://aasthatodo.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/ToDo"}
         />
 
-        <Projectcompoents
+        {/* <Projectcompoents
           Image={"/Project/Reactroute.png"}
           projectType={"routingApp"}
           Linkofcode={"https://github.com/Aastharao1610/Codemastermind"}
           LinkofLive={""}
-        />
+        /> */}
 
         <Projectcompoents
           Image={"/Project/passwordgen.png"}
           projectType={"passwordgenerator"}
           Linkofcode={"https://github.com/Aastharao1610/passwordgenrator"}
-          LinkofLive={"https://passwordgenrat.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/passwordgenrator/"}
         />
 
         <Projectcompoents
           Image={"/Project/Mirands.png"}
           projectType={"Miranda"}
           Linkofcode={"https://github.com/Aastharao1610/Miranda"}
-          LinkofLive={"https://mirrandaa.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Miranda/"}
         />
 
         <Projectcompoents
           Image={"/Project/megma.png"}
           projectType={"MegmaWeb"}
           Linkofcode={"https://github.com/Aastharao1610/MegmaWeb"}
-          LinkofLive={"https://megmaweb.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/MegmaWeb/"}
         />
 
         <Projectcompoents
           Image={"/Project/cyber.png"}
           projectType={"Cyberfiction"}
           Linkofcode={"https://github.com/Aastharao1610/CyberFiction"}
-          LinkofLive={"https://cyberfictionapp.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/CyberFiction/"}
         />
 
-        <Projectcompoents
+        {/* <Projectcompoents
           Image={"/Project/Duostudio.png"}
           projectType={"Duostudio"}
           Linkofcode={"https://github.com/Aastharao1610/Duo_Studio"}
           LinkofLive={"https://duostudioapp.netlify.app/"}
-        />
+        /> */}
 
         <Projectcompoents
           Image={"/Project/flipkart.png"}
           projectType={"flipkart"}
           Linkofcode={"https://github.com/Aastharao1610/FlipkartClone"}
-          LinkofLive={"https://aasthasuiclone.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/FlipkartClone/"}
         />
 
         <Projectcompoents
           Image={"/Project/tictactoe.png"}
           projectType={"tictactoe"}
           Linkofcode={"https://github.com/Aastharao1610/TicTaetoe"}
-          LinkofLive={"https://aasthatictactoegameapp.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/TicTaetoe/"}
         />
 
         <Projectcompoents
           Image={"/Project/bubblegame.png"}
           projectType={"Bubble"}
           Linkofcode={"https://github.com/Aastharao1610/Bubblegame"}
-          LinkofLive={"https://bubblegameappar.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/Bubblegame/"}
         />
 
         <Projectcompoents
           Image={"/Project/clock.png"}
           projectType={"clock"}
           Linkofcode={"https://github.com/Aastharao1610/clock"}
-          LinkofLive={"https://wokingclock.netlify.app/"}
+          LinkofLive={"https://aastharao1610.github.io/clock/"}
         />
       </div>
       {/* <div className='capitalize mt-12 text-center text-2xl'>Always Building, Always Growing—More Projects Ahead!</div> */}
